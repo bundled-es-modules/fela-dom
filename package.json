@@ -1,6 +1,7 @@
 {
-  "name": "fela-dom",
-  "description": "mirror of fela-dom for bower, bundled and exposed as ES module",
+  "name": "@bundled-es-modules/fela-dom",
+  "version": "7.0.9",
+  "description": "mirror of fela-dom, bundled and exposed as ES module",
   "author": "Mikhail Bashkirov <bashmish@gmail.com>",
   "main": "index.js",
   "devDependencies": {
